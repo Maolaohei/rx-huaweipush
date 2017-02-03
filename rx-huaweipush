@@ -1,0 +1,14 @@
+<prescription xmlns="http://greenify.github.io/schemas/prescription/v1" type="service">
+  <intent-filter>
+    <action name="com.huawei.android.push.intent.REGISTER" />
+    <action name="com.huawei.android.push.intent.CLICK" />
+    <action name="com.huawei.android.push.intent.RESPONSE" />
+    <action name="com.huawei.android.push.intent.REGISTRATION" />
+    <action name="com.huawei.android.push.intent.RECEIVE" />
+    <action name="com.huawei.intent.action.PUSH" />
+    <action name="com.huawei.intent.action.PUSH_STATE" />
+    <action name="com.huawei.android.push.intent.REFRESH_PUSH_CHANNEL" />
+    <action name="com.huawei.push.intent.action.PUSH_ON" />
+    <action name="com.huawei.android.push.PLUGIN" />
+  </intent-filter>
+</prescription>
