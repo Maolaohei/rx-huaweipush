@@ -1,4 +1,4 @@
-<prescription xmlns="http://greenify.github.io/schemas/prescription/v1" type="service">
+<prescription xmlns="http://greenify.github.io/schemas/prescription/v1" type="broadcast">
   <intent-filter>
     <action name="com.huawei.android.push.intent.REGISTER" />
     <action name="com.huawei.android.push.intent.CLICK" />
